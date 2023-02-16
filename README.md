@@ -4,3 +4,7 @@
 ![Screenshot (588)](https://user-images.githubusercontent.com/125570094/219439701-60135147-d4ff-4d20-9b33-906dfdd3e358.png)
 ![Screenshot (589)](https://user-images.githubusercontent.com/125570094/219439706-73468ce0-a25f-4c8a-ab60-4fbae672937a.png)
 ![Screenshot (590)](https://user-images.githubusercontent.com/125570094/219439711-e911b410-993b-411b-b569-4c746271db0e.png)
+
+2)CSS chaining
+
+![Screenshot (591)](https://user-images.githubusercontent.com/125570094/219443760-7c28c4f7-1029-46c0-8e6b-d929c0678f57.png)
